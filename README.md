@@ -1,3 +1,4 @@
 # MACHINE-LEARNING-WITH-PYTHON
-Here I will add the codes I wrote during the learning process of Machine Learning with Python from a workshop of CUET.
+In this repository, I will document the codes I write during my learning journey in the "Machine Learning with Python" workshop organized by CUET.
+I will strive to include comprehensive documentation wherever possible.
 - SHAWKIK ISLAM JOHA
